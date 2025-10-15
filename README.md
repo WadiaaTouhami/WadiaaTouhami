@@ -7,4 +7,4 @@ Hi there! I am Wadiaa TOUHAMI, a motivated Data Science student, passionate abou
 - Deep Learning
 - Big Data
 
-## My LinkedIn account : https://www.linkedin.com/in/wadiaa-touhami-88185916a/
+## My LinkedIn account : https://www.linkedin.com/in/wadiaa-touhami
